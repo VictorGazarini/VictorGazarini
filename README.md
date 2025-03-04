@@ -17,5 +17,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 ## Contato
 
 - Email: victorhugogazarini@gmail.com
-- LinkedIn: [linkedin.com/in/victorgazarini](https://www.linkedin.com/in/victorgazarini/))
+- LinkedIn: [linkedin.com/in/victorgazarini](https://www.linkedin.com/in/victorgazarini/)
 - GitHub: [github.com/VictorGazarini](https://github.com/VictorGazarini)
