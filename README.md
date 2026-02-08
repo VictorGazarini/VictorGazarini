@@ -6,6 +6,8 @@ Sou um profissional focado na administração e sustentação de ambientes Micro
 
 Minha presença no GitHub tem como objetivo centralizar e versionar **scripts em PowerShell** voltados para automação de rotinas administrativas, correções de sistema e diagnósticos.
 
+Além de iniciar minha trajetória em DevOps.
+
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
@@ -14,7 +16,7 @@ Minha atuação técnica é baseada na operação de ferramentas de gerenciament
 
 * **Gerenciamento de Endpoints:** Microsoft Intune, Microsoft Configuration Manager (SCCM/MECM).
 * **Scripting & Automação:** PowerShell (Automação de tarefas, Coletas de dados e Software Wrapping com PSADT).
-* **Infraestrutura:** Windows 10/11, Azure Active Directory (Entra ID), TCP/IP & Networking Basics.
+* **Infraestrutura:** Windows 10/11, Linux, Azure Active Directory (Entra ID), & Networking Basics.
 * **Background:** Hardware Assembly, Troubleshooting de Redes e Suporte Nível 2/3 (Origem em Field Service).
 
 ---
